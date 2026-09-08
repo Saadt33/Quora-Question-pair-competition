@@ -1,4 +1,4 @@
-# 🧠 Quora Question Pair — Duplicate Question Detection   
+# 🧠 Quora Question Pair — Duplicate Question Detection 
 
 ### `NLP` • `Machine Learning` • `Text Classification` • `Bag of Words`
 
